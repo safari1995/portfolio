@@ -3,9 +3,8 @@
 #### Technical Skills: Python, SQL, Machine Learning, Deep learning, Statistics, MATLAB
 
 ## Education								       		
-M.A., Information Technology Management - Advanced Information Systems  | Allameh Tabataba'i University (_Septembe 2021_)	 			        		
-
-B.A., Business Management | Allameh Tabataba'i University (_December 2017_)
+#### M.A., Information Technology Management - Advanced Information Systems  | Allameh Tabataba'i University (_September 2021_)	 			        		
+#### B.A., Business Management | Allameh Tabataba'i University (_December 2017_)
 
 ## Work Experience
 **Financial Data Analyst @ Poyandegan Sarmayeh Sepahan Investment Company (_March 2018 - Present_)**
